@@ -13,5 +13,121 @@ Notion - ( <img width="2559" height="1530" alt="image" src="https://github.com/u
 - Install Ollama,
 - Open Account in Hugging Face - ( <img width="2559" height="1386" alt="image" src="https://github.com/user-attachments/assets/5b1b1686-4b78-400c-84f2-6bc5efc285ed" /> )
 
-- Explore the Hugging face spaces
-- 50 Prompt Task
+- Explore the Hugging face spaces - finished 
+- 50 Prompt Task - completed ( Identify hidden assumptions in this argument and evaluate their validity.
+
+Explain a complex idea using only everyday objects as metaphors.
+
+Detect logical fallacies in the given paragraph.
+
+Rewrite this explanation for three audiences: child, student, expert.
+
+Turn this long explanation into a one-sentence insight.
+
+DECISION-MAKING PROMPTS
+
+Given limited information, make the best possible decision and justify it.
+
+Rank these options based on impact, cost, and feasibility.
+
+Create a decision tree for solving this problem.
+
+Predict second-order consequences of this decision.
+
+Choose the least risky option and explain why others fail.
+
+🔵 CREATIVITY + CONSTRAINT PROMPTS
+
+Write a story without using the letter “e”.
+
+Explain a technical topic without using technical words.
+
+Create a slogan using only 5 words.
+
+Rewrite this content in reverse chronological logic.
+
+Describe an emotion without naming it.
+
+🟣 CRITICAL REASONING PROMPTS
+
+Argue against your own previous answer.
+
+Find weaknesses in this otherwise good solution.
+
+Generate counter-examples that break this rule.
+
+Improve accuracy without increasing length.
+
+🟠 SYSTEM & STRUCTURE PROMPTS
+
+Convert this unstructured text into a clear framework.
+
+Extract rules from examples and explain them.
+
+Design a reusable template from this one-time task.
+
+Turn this explanation into a checklist.
+
+Create a scoring rubric for evaluating this output.
+
+🔴 REAL-WORLD SIMULATION PROMPTS
+
+Simulate a meeting between two experts who disagree.
+
+Role-play a crisis response plan under time pressure.
+
+Act as a reviewer and reject this proposal with reasons.
+
+Simulate user feedback after product launch.
+
+Predict how different stakeholders react 
+
+🔧 TECH + AI PROMPTS
+
+Convert a manual process into an AI-assisted workflow.
+
+Break this task into steps suitable for an AI agent.
+
+Identify where AI would fail in this scenario.
+
+Design a prompt that reduces hallucinations.
+
+Evaluate this output for bias and fairness.
+
+💼 BUSINESS & STRATEGY PROMPTS
+
+Identify an unmet need hidden in this description.
+
+Turn customer complaints into product opportunities.
+
+Create a differentiation strategy without lowering price.
+
+Analyze why this business idea may fail.
+
+Design a no-budget growth strategy.
+
+🎓 LEARNING & META-PROMPTS
+
+Teach this topic using only questions.
+
+Generate practice problems with increasing difficulty.
+
+Create an error-based learning example.
+
+Design a self-test to measure understanding.
+
+Convert this lesson into a 5-minute explanation.
+
+🚀 ADVANCED PROMPT ENGINEERING PROMPTS
+
+Rewrite this prompt to maximize precision and control.
+
+Split this prompt into system, user, and constraints.
+
+Design a prompt that checks its own output quality.
+
+Chain multiple prompts to reach a final solution.
+
+Create a universal prompt that adapts to any topic.
+
+Decide what information is missing and why it matters.
