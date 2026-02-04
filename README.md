@@ -126,6 +126,8 @@ Split this prompt into system, user, and constraints.
 
 Design a prompt that checks its own output quality.
 
+week 4 langchain rag 
+
 Chain multiple prompts to reach a final solution.
 
 Create a universal prompt that adapts to any topic.
