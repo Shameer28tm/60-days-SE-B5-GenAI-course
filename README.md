@@ -132,4 +132,4 @@ Chain multiple prompts to reach a final solution.
 
 Create a universal prompt that adapts to any topic.
 
-Decide what information is missing and why it matters.
+Decide what information is missing and why it.
