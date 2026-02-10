@@ -14,7 +14,7 @@ Notion - ( <img width="2559" height="1530" alt="image" src="https://github.com/u
 - Open Account in Hugging Face - ( <img width="2559" height="1386" alt="image" src="https://github.com/user-attachments/assets/5b1b1686-4b78-400c-84f2-6bc5efc285ed" /> )
 
 - Explore the Hugging face spaces - finished 
-- 50 Prompt Task - completed ( Identify hidden assumptions in this argument and evaluate their validity.
+- 50 Prompt Task - completed ( Identify hidden assumptions in this argument and evaluate  validity.
 
 Explain a complex idea using only everyday objects as metaphors.
 
